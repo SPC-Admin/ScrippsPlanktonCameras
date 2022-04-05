@@ -1,0 +1,1 @@
+/home/spcadmin/virtualenvs/planktivore/bin/gunicorn -c /home/spcadmin/virtualenvs/planktivore/planktivore_scripps_pier/gunicorn_config.py planktivore.wsgi
